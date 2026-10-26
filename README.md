@@ -2,7 +2,7 @@
 
 Source code of my personal portfolio: **https://ammar-rajabi.com**
 
-A bilingual (French / English) static website, hand-coded without a framework or page builder.
+A bilingual (French / English) static website, built without a framework or page builder.
 
 ## Features
 
